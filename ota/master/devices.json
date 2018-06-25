@@ -1,6 +1,10 @@
 {
     "lge/h811": "lge/g4",
     "lge/h815": "lge/g4",
+    "lge/h810_usu": "lge/g4",
+    "lge/h812_usu": "lge/g4",
+    "lge/h815_usu": "lge/g4",
+    "lge/vs986_usu": "lge/g4",
     "lge/p1": "lge/g4",
     "lge/g4": "lge/g4"
 }
